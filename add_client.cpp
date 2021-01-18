@@ -2,6 +2,7 @@
 #include "ui_add_client.h"
 #include <QSqlQuery>
 #include <QtSql/QSqlDatabase>
+#include <QtSql/QSqlRecord>
 #include <QString>
 #include <QDate>
 #include <QMessageBox>
@@ -126,6 +127,21 @@ void Add_client::fillData(QSqlDatabase *data)
 {
     m_db=new QSqlDatabase(*data);
     q=new QSqlQuery(*m_db);
+    /*QString cmd="SELECT price FROM abonement_price;";
+    if (!q->exec(cmd))
+    {
+        qDebug()<<"error";
+    }
+    else
+    {
+        q->next();
+        QSqlRecord rec=q->record();
+        for (int i=0;i<5;++i)
+        {
+            priceList.push_back(rec.value(i).toInt());
+            qDebug()<<priceList[i];
+        }
+    }*/
 }
 
 void Add_client::on_male_box_stateChanged(int arg1)
@@ -190,4 +206,36 @@ QString Add_client::getFImage(int idx)
         qDebug()<<"Плохо:в female_image выход за пределы массива";
         return "";
     }
+}
+
+void Add_client::on_twoYears_clicked()
+{
+    ui->lineEdit_5->clear();
+    ui->lineEdit_5->insert("38000");
+}
+
+void Add_client::on_oneYear_clicked()
+{
+    ui->lineEdit_5->clear();
+    ui->lineEdit_5->insert("25000");
+}
+
+
+void Add_client::on_sixMonths_clicked()
+{
+    ui->lineEdit_5->clear();
+    ui->lineEdit_5->insert("15000");
+}
+
+
+void Add_client::on_threeMonths_clicked()
+{
+    ui->lineEdit_5->clear();
+    ui->lineEdit_5->insert("90000");
+}
+
+void Add_client::on_oneMonth_clicked()
+{
+    ui->lineEdit_5->clear();
+    ui->lineEdit_5->insert("4000");
 }

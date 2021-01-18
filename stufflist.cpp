@@ -18,7 +18,7 @@ StuffList::StuffList(QWidget *parent,QSqlDatabase *data,stuff_type type) :
     {
         this->setWindowIcon(QIcon(":/new/images/Materials/Icons 32x32/sport.ico"));
         this->setWindowTitle("Тренеры");
-        cmd="SELECT name,surname,fatherName,status,t_id FROM trainers_info;";
+        cmd="SELECT name,surname,fatherName,t_id FROM trainers_info;";
         if (!q->exec(cmd))
         {
             qDebug()<<"trainer query error: "<<cmd;
@@ -26,7 +26,7 @@ StuffList::StuffList(QWidget *parent,QSqlDatabase *data,stuff_type type) :
         else
         {
             ui->label->setText("Команда Тренеров");
-            ui->tableWidget->setColumnCount(5);
+            ui->tableWidget->setColumnCount(4);
             ui->tableWidget->setShowGrid(true);
             ui->tableWidget->setSelectionMode(QAbstractItemView::SingleSelection);
             ui->tableWidget->setSelectionBehavior(QAbstractItemView::SelectRows);
@@ -40,8 +40,7 @@ StuffList::StuffList(QWidget *parent,QSqlDatabase *data,stuff_type type) :
                     ui->tableWidget->setItem(0,0,new QTableWidgetItem("Имя"));
                     ui->tableWidget->setItem(0,1,new QTableWidgetItem("Фамилия"));
                     ui->tableWidget->setItem(0,2,new QTableWidgetItem("Отчество"));
-                    ui->tableWidget->setItem(0,3,new QTableWidgetItem("Рейтинг"));
-                    ui->tableWidget->setItem(0,4,new QTableWidgetItem("ID"));
+                    ui->tableWidget->setItem(0,3,new QTableWidgetItem("ID"));
                 }
                 else
                 {
