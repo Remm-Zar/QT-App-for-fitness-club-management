@@ -372,7 +372,7 @@ void MainWidget::on_priceList_clicked(const QModelIndex &index)
 void MainWidget::priceListDefault()
 {
     qDebug()<<"In price list";
-    QString cmd="SELECT * FROM prices;";
+    QString cmd="SELECT p_id,service AS сервис,price AS цена FROM prices;";
     qModel=new QSqlQueryModel;
     if (!q->exec(cmd))
     {

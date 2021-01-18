@@ -51,6 +51,18 @@ ClientInfo::ClientInfo(QWidget *parent,QSqlDatabase *data,int id) :
             ui->age->insert(QString::number(age));
             ui->gender->insert(gender);
             ui->image->setStyleSheet("QListView {background-image: url("+avatar+")};");
+            cmd="SELECT sum(price) FROM client_hist WHERE c_id="+QString::number(ID)+";";
+            if (!q->exec(cmd))
+            {
+                qDebug()<<"error";
+            }
+            else
+            {
+                q->next();
+                QSqlRecord rec=q->record();
+                int sum=rec.value(0).toInt();
+                ui->lineEdit->insert(QString::number(sum));
+            }
         }
     }
 }

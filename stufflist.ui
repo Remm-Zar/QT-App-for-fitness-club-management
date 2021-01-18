@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>710</width>
+    <width>817</width>
     <height>840</height>
    </rect>
   </property>
@@ -24,7 +24,7 @@
   </property>
   <property name="maximumSize">
    <size>
-    <width>750</width>
+    <width>850</width>
     <height>840</height>
    </size>
   </property>
@@ -45,7 +45,7 @@ background-color: rgb(47, 53, 88);</string>
     <rect>
      <x>80</x>
      <y>120</y>
-     <width>550</width>
+     <width>651</width>
      <height>681</height>
     </rect>
    </property>
@@ -63,7 +63,7 @@ background-color: rgb(47, 53, 88);</string>
    </property>
    <property name="maximumSize">
     <size>
-     <width>550</width>
+     <width>700</width>
      <height>770</height>
     </size>
    </property>
@@ -94,9 +94,9 @@ color: rgb(0, 0, 0);</string>
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>170</x>
+     <x>150</x>
      <y>40</y>
-     <width>381</width>
+     <width>521</width>
      <height>61</height>
     </rect>
    </property>

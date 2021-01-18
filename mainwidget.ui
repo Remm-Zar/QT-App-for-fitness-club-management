@@ -307,7 +307,8 @@ color: rgb(0, 0, 0);</string>
           </size>
          </property>
          <property name="styleSheet">
-          <string notr="true">background-color: rgba(255, 255, 255, 150);</string>
+          <string notr="true">background-color: rgba(255, 255, 255, 150);
+font: 11pt &quot;NK57 Monospace Bk&quot;;</string>
          </property>
         </widget>
        </item>
