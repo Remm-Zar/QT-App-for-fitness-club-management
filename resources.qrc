@@ -1,0 +1,193 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>Materials/Icons 32x32/add column.ico</file>
+        <file>Materials/Icons 32x32/add row.ico</file>
+        <file>Materials/Icons 32x32/add user.ico</file>
+        <file>Materials/Icons 32x32/alarm.ico</file>
+        <file>Materials/Icons 32x32/align bottom.ico</file>
+        <file>Materials/Icons 32x32/align center.ico</file>
+        <file>Materials/Icons 32x32/align center1.ico</file>
+        <file>Materials/Icons 32x32/align columns.ico</file>
+        <file>Materials/Icons 32x32/align left.ico</file>
+        <file>Materials/Icons 32x32/align right.ico</file>
+        <file>Materials/Icons 32x32/align top.ico</file>
+        <file>Materials/Icons 32x32/all borders.ico</file>
+        <file>Materials/Icons 32x32/attention.ico</file>
+        <file>Materials/Icons 32x32/back 1.ico</file>
+        <file>Materials/Icons 32x32/back.ico</file>
+        <file>Materials/Icons 32x32/balloon.ico</file>
+        <file>Materials/Icons 32x32/bold.ico</file>
+        <file>Materials/Icons 32x32/book 1.ico</file>
+        <file>Materials/Icons 32x32/book bookmark 1.ico</file>
+        <file>Materials/Icons 32x32/book bookmark.ico</file>
+        <file>Materials/Icons 32x32/book.ico</file>
+        <file>Materials/Icons 32x32/bottom border.ico</file>
+        <file>Materials/Icons 32x32/bulb.ico</file>
+        <file>Materials/Icons 32x32/calculator.ico</file>
+        <file>Materials/Icons 32x32/calendar 2.ico</file>
+        <file>Materials/Icons 32x32/calendar.ico</file>
+        <file>Materials/Icons 32x32/cancel.ico</file>
+        <file>Materials/Icons 32x32/case.ico</file>
+        <file>Materials/Icons 32x32/cd disk.ico</file>
+        <file>Materials/Icons 32x32/certificate.ico</file>
+        <file>Materials/Icons 32x32/choose language.ico</file>
+        <file>Materials/Icons 32x32/clock.ico</file>
+        <file>Materials/Icons 32x32/close file.ico</file>
+        <file>Materials/Icons 32x32/copy.ico</file>
+        <file>Materials/Icons 32x32/cut.ico</file>
+        <file>Materials/Icons 32x32/database  add.ico</file>
+        <file>Materials/Icons 32x32/database delete.ico</file>
+        <file>Materials/Icons 32x32/database.ico</file>
+        <file>Materials/Icons 32x32/database-check.ico</file>
+        <file>Materials/Icons 32x32/decrease indent.ico</file>
+        <file>Materials/Icons 32x32/delete 1.ico</file>
+        <file>Materials/Icons 32x32/delete column.ico</file>
+        <file>Materials/Icons 32x32/delete database.ico</file>
+        <file>Materials/Icons 32x32/delete row.ico</file>
+        <file>Materials/Icons 32x32/delete.ico</file>
+        <file>Materials/Icons 32x32/diagram.ico</file>
+        <file>Materials/Icons 32x32/display.ico</file>
+        <file>Materials/Icons 32x32/down.ico</file>
+        <file>Materials/Icons 32x32/envelope cross.ico</file>
+        <file>Materials/Icons 32x32/envelope in.ico</file>
+        <file>Materials/Icons 32x32/envelope out.ico</file>
+        <file>Materials/Icons 32x32/envelope pencil.ico</file>
+        <file>Materials/Icons 32x32/envelope.ico</file>
+        <file>Materials/Icons 32x32/envelope-check.ico</file>
+        <file>Materials/Icons 32x32/exit.ico</file>
+        <file>Materials/Icons 32x32/favorites.ico</file>
+        <file>Materials/Icons 32x32/fax.ico</file>
+        <file>Materials/Icons 32x32/find next.ico</file>
+        <file>Materials/Icons 32x32/find.ico</file>
+        <file>Materials/Icons 32x32/flag green.ico</file>
+        <file>Materials/Icons 32x32/flag red.ico</file>
+        <file>Materials/Icons 32x32/flag yellow.ico</file>
+        <file>Materials/Icons 32x32/font background.ico</file>
+        <file>Materials/Icons 32x32/font сolor.ico</file>
+        <file>Materials/Icons 32x32/forward.ico</file>
+        <file>Materials/Icons 32x32/globe.ico</file>
+        <file>Materials/Icons 32x32/grow font.ico</file>
+        <file>Materials/Icons 32x32/hard disk.ico</file>
+        <file>Materials/Icons 32x32/history.ico</file>
+        <file>Materials/Icons 32x32/home.ico</file>
+        <file>Materials/Icons 32x32/import camera.ico</file>
+        <file>Materials/Icons 32x32/import scanner.ico</file>
+        <file>Materials/Icons 32x32/import.ico</file>
+        <file>Materials/Icons 32x32/increase indent.ico</file>
+        <file>Materials/Icons 32x32/increase.ico</file>
+        <file>Materials/Icons 32x32/insert table.ico</file>
+        <file>Materials/Icons 32x32/insert.ico</file>
+        <file>Materials/Icons 32x32/italic.ico</file>
+        <file>Materials/Icons 32x32/key.ico</file>
+        <file>Materials/Icons 32x32/left border.ico</file>
+        <file>Materials/Icons 32x32/left.ico</file>
+        <file>Materials/Icons 32x32/lock.ico</file>
+        <file>Materials/Icons 32x32/magnifier.ico</file>
+        <file>Materials/Icons 32x32/marked list points.ico</file>
+        <file>Materials/Icons 32x32/master.ico</file>
+        <file>Materials/Icons 32x32/megaphone.ico</file>
+        <file>Materials/Icons 32x32/merge cells.ico</file>
+        <file>Materials/Icons 32x32/minus.ico</file>
+        <file>Materials/Icons 32x32/mouse cursor.ico</file>
+        <file>Materials/Icons 32x32/mouse.ico</file>
+        <file>Materials/Icons 32x32/new.ico</file>
+        <file>Materials/Icons 32x32/no borders.ico</file>
+        <file>Materials/Icons 32x32/note.ico</file>
+        <file>Materials/Icons 32x32/numbered list.ico</file>
+        <file>Materials/Icons 32x32/open database.ico</file>
+        <file>Materials/Icons 32x32/open envelope.ico</file>
+        <file>Materials/Icons 32x32/open network file.ico</file>
+        <file>Materials/Icons 32x32/open.ico</file>
+        <file>Materials/Icons 32x32/options.ico</file>
+        <file>Materials/Icons 32x32/page settings.ico</file>
+        <file>Materials/Icons 32x32/paper clip 1.ico</file>
+        <file>Materials/Icons 32x32/paper clip 2.ico</file>
+        <file>Materials/Icons 32x32/paper clip.ico</file>
+        <file>Materials/Icons 32x32/pause.ico</file>
+        <file>Materials/Icons 32x32/pencil ruler.ico</file>
+        <file>Materials/Icons 32x32/phone.ico</file>
+        <file>Materials/Icons 32x32/picture.ico</file>
+        <file>Materials/Icons 32x32/play.ico</file>
+        <file>Materials/Icons 32x32/plus.ico</file>
+        <file>Materials/Icons 32x32/preview.ico</file>
+        <file>Materials/Icons 32x32/printer.ico</file>
+        <file>Materials/Icons 32x32/property.ico</file>
+        <file>Materials/Icons 32x32/record.ico</file>
+        <file>Materials/Icons 32x32/recycle bin sign.ico</file>
+        <file>Materials/Icons 32x32/recycle bin.ico</file>
+        <file>Materials/Icons 32x32/reduce.ico</file>
+        <file>Materials/Icons 32x32/remove user.ico</file>
+        <file>Materials/Icons 32x32/replace.ico</file>
+        <file>Materials/Icons 32x32/rewind back.ico</file>
+        <file>Materials/Icons 32x32/rewind forward.ico</file>
+        <file>Materials/Icons 32x32/right border.ico</file>
+        <file>Materials/Icons 32x32/right.ico</file>
+        <file>Materials/Icons 32x32/save as.ico</file>
+        <file>Materials/Icons 32x32/save.ico</file>
+        <file>Materials/Icons 32x32/search 2.ico</file>
+        <file>Materials/Icons 32x32/search database.ico</file>
+        <file>Materials/Icons 32x32/search.ico</file>
+        <file>Materials/Icons 32x32/shrink font.ico</file>
+        <file>Materials/Icons 32x32/skip back.ico</file>
+        <file>Materials/Icons 32x32/skip forward.ico</file>
+        <file>Materials/Icons 32x32/spell.ico</file>
+        <file>Materials/Icons 32x32/split cells.ico</file>
+        <file>Materials/Icons 32x32/stop 2.ico</file>
+        <file>Materials/Icons 32x32/stop.ico</file>
+        <file>Materials/Icons 32x32/strikeout.ico</file>
+        <file>Materials/Icons 32x32/subscript.ico</file>
+        <file>Materials/Icons 32x32/superscript.ico</file>
+        <file>Materials/Icons 32x32/table.ico</file>
+        <file>Materials/Icons 32x32/top border.ico</file>
+        <file>Materials/Icons 32x32/two displays.ico</file>
+        <file>Materials/Icons 32x32/two pictures.ico</file>
+        <file>Materials/Icons 32x32/underline.ico</file>
+        <file>Materials/Icons 32x32/unmerge cells.ico</file>
+        <file>Materials/Icons 32x32/up.ico</file>
+        <file>Materials/Icons 32x32/update.ico</file>
+        <file>Materials/Icons 32x32/user.ico</file>
+        <file>Materials/Icons 32x32/еxport.ico</file>
+        <file>Materials/Icons 32x32/man.ico</file>
+        <file>Materials/Icons 32x32/med.ico</file>
+        <file>Materials/Icons 32x32/sport.ico</file>
+        <file>Materials/Icons 32x32/avatar1.png</file>
+        <file>Materials/Icons 32x32/avatar2.png</file>
+        <file>Materials/Icons 32x32/client.ico</file>
+        <file>Materials/Icons 32x32/avatar3.png</file>
+        <file>Materials/Icons 32x32/avatar4.png</file>
+        <file>Materials/Icons 32x32/addMedStuff.ico</file>
+        <file>Materials/Icons 32x32/addTrainer.ico</file>
+        <file>Materials/Icons 32x32/cool1.jpg</file>
+        <file>Materials/Icons 32x32/cool2.jpg</file>
+        <file>Materials/Icons 32x32/cool3.png</file>
+        <file>Materials/Icons 32x32/stop.png</file>
+        <file>Materials/Icons 32x32/cool4.ico</file>
+    </qresource>
+    <qresource prefix="/new">
+        <file>Materials/Backgrounds/back_2.jpg</file>
+    </qresource>
+    <qresource prefix="/new/no_image">
+        <file>Materials/avatar/no_image.png</file>
+    </qresource>
+    <qresource prefix="/avas/w">
+        <file>Materials/avatar/women/ava1.png</file>
+        <file>Materials/avatar/women/ava2.png</file>
+        <file>Materials/avatar/women/ava3.png</file>
+        <file>Materials/avatar/women/ava4.png</file>
+        <file>Materials/avatar/women/ava5.png</file>
+        <file>Materials/avatar/women/ava6.png</file>
+        <file>Materials/avatar/women/ava7.png</file>
+        <file>Materials/avatar/women/ava8.png</file>
+        <file>Materials/avatar/women/ava9.png</file>
+    </qresource>
+    <qresource prefix="/avas/m">
+        <file>Materials/avatar/men/ava1.png</file>
+        <file>Materials/avatar/men/ava2.png</file>
+        <file>Materials/avatar/men/ava3.png</file>
+        <file>Materials/avatar/men/ava4.png</file>
+        <file>Materials/avatar/men/ava5.png</file>
+        <file>Materials/avatar/men/ava6.png</file>
+        <file>Materials/avatar/men/ava7.png</file>
+        <file>Materials/avatar/men/ava8.png</file>
+    </qresource>
+</RCC>
